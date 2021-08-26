@@ -1,10 +1,10 @@
 ## Hi, I'm Pankaj Mouriya
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.pankajmouriya.com/">
     <img width="100" src="https://pankajmouriya.com/author/pankaj-mouriya/avatar_hu9d8315cfef8b7891ee09772504084d8f_410923_270x270_fill_lanczos_center_2.png" alt="logo" />
   </a>
-</p>
+</p> -->
 
 - 👨🏻‍💻 I'm a Security Analyst at <a href='https://appsecco.com/' target='_blank'>Appsecco</a>, owning efforts related to the Application Penetration Testing, Network Penetration testing, alongside cloud and container technologies.
 - ✍🏻 I write at <a href='https://blog.rootrwx.com/' target='_blank'>Blogpost</a>, a platform that highlights security-related research focused on the web and cloud native landscape.
