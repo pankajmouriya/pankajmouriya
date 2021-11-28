@@ -27,7 +27,7 @@
 
 #### Certifications
 
-<a href="https://www.credly.com/badges/25478fbc-c397-42fe-9446-35c7b78cd153" target="_blank"><img src="https://marcolancini.it/images/about/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
+<a href="https://www.credly.com/badges/25478fbc-c397-42fe-9446-35c7b78cd153" target="_blank"><img src="https://images.credly.com/images/ee741c0c-3d57-48e0-82e0-699a2170aa50/AWS-Security-Specialty-2020.png" class="cert" alt='AWS CSA' width="80px"></a>
 
 <br>
 <a href="https://pankajmouriya.com/">
