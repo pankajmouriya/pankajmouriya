@@ -6,7 +6,7 @@
   </a>
 </p> -->
 
-- 👨🏻‍💻 I'm a Sr. Security Engineer at <a href='https://invideo.io/' target='_blank'>InVideo</a>, owning efforts related to the Application Penetration Testing, Network Penetration testing, alongside cloud and container technologies.
+- 👨🏻‍💻 I'm a Sr. Security Engineer at <a href='https://invideo.io/' target='_blank'>InVideo</a>, owning efforts related to the Application Security, Network Security alongside cloud and container technologies.
 - ✍🏻 I write at <a href='https://blog.rootrwx.com/' target='_blank'>Blogpost</a>, a platform that highlights security-related research focused on the web and cloud native landscape.
 - 🛡 I'm a community manager at <a href='https://null.community/' target='_blank'>null - The Open Security Community</a>, and active speaker at various other communities.
 - 📚 I am planning to start a separate platform to blog about cloud security at <a href='https://misconfigured.cloud' target='_blank'>Misconfigured.Cloud</a>. Join me if you have an idea or want to work with me on it.
