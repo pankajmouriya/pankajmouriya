@@ -13,8 +13,6 @@
 - I recently started one Project <a href='https://workitout.co.in/' target='_blank'> WorkItOut </a> and a YouTube channel to upload my fitness videos and motivate others. Subscribe if you feel motivated watching my videos on <a href='https://www.youtube.com/channel/UCBNABFqV_L7ZjoEDpp2p-TA' target='_blank'> WorkItOut</a>. 
 - 💬 For a more detailed *"About Me"*: <a href='https://www.pankajmouriya.com' target='_blank'>Pankaj Mouriya</a>
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=dark&show_icons=true)
-
 
 #### How to reach me?
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pankajmouriya_)
@@ -30,6 +28,9 @@
 #### Certifications
 
 <a href="https://www.credly.com/badges/25478fbc-c397-42fe-9446-35c7b78cd153" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS CSA' width="80px"></a>
+
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true)
 
 <br>
 <a href="https://pankajmouriya.com/">
