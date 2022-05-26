@@ -13,6 +13,8 @@
 - I recently started one Project <a href='https://workitout.co.in/' target='_blank'> WorkItOut </a> and a YouTube channel to upload my fitness videos and motivate others. Subscribe if you feel motivated watching my videos on <a href='https://www.youtube.com/channel/UCBNABFqV_L7ZjoEDpp2p-TA' target='_blank'> WorkItOut</a>. 
 - 💬 For a more detailed *"About Me"*: <a href='https://www.pankajmouriya.com' target='_blank'>Pankaj Mouriya</a>
 
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=dark&show_icons=true)
+
 
 #### How to reach me?
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pankajmouriya_)
