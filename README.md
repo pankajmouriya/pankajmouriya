@@ -1,5 +1,7 @@
 ## Hi, I'm Pankaj Mouriya
 
+<img width="100px" src="https://pankajmouriya.com/author/pankaj-mouriya/avatar_hu9d8315cfef8b7891ee09772504084d8f_410923_270x270_fill_lanczos_center_2.png" align="center" alt="GitHub Readme Stats" />
+
 <!-- <p align="center">
   <a href="https://www.pankajmouriya.com/">
     <img width="100" src="https://pankajmouriya.com/author/pankaj-mouriya/avatar_hu9d8315cfef8b7891ee09772504084d8f_410923_270x270_fill_lanczos_center_2.png" alt="logo" />
