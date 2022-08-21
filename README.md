@@ -33,8 +33,9 @@
 <a href="https://www.credly.com/badges/25478fbc-c397-42fe-9446-35c7b78cd153" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS CSA' width="80px"></a>
 <a href="https://www.credly.com/badges/18188d4d-026d-416a-84d1-582e90328f74/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" class="cert" alt='CKA: Certified Kubernetes Administrator' width="80px"></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmouriya&layout=compact)
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmouriya&layout=compact)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true)     
 
 
 
