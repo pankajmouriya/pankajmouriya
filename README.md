@@ -17,12 +17,6 @@
 - 💬 For a more detailed *"About Me"*: <a href='https://www.pankajmouriya.com' target='_blank'>Pankaj Mouriya</a>
 
 
-#### How to reach me?
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pankajmouriya_)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajmouriya/)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://pankajmouriya.com)
-
-
 #### Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -38,6 +32,12 @@
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true)     
 
 
+
+
+#### How to reach me?
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pankajmouriya_)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajmouriya/)
+[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://pankajmouriya.com)
 
 <br>
 <a href="https://pankajmouriya.com/">
