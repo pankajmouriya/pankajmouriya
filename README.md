@@ -34,7 +34,8 @@
 <a href="https://www.credly.com/badges/18188d4d-026d-416a-84d1-582e90328f74/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" class="cert" alt='CKA: Certified Kubernetes Administrator' width="80px"></a>
 
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmouriya)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmouriya&layout=compact)
+
 
 
 <br>
