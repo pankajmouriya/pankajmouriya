@@ -36,6 +36,9 @@
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajmouriya&theme=gotham&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajmouriya)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 <a href="https://pankajmouriya.com/">
   <table align="right">
