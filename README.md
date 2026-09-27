@@ -9,7 +9,7 @@
   </a>
 </p> -->
 
-- 👨🏻‍💻 I'm a Security Engineer at <a href='https://konghq.com/' target='_blank'>Kong</a>, owning efforts related to the Security Engineering.
+- 👨🏻‍💻 I'm a Security Engineer at <a href='https://harness.io/' target='_blank'>Harness</a>, owning efforts related to the Security Engineering.
 - ✍🏻 I write at <a href='https://noshellaccess.com/' target='_blank'>noshellaccess.com</a>, a platform that highlights security-related research focused on the web and cloud native landscape.
 - 🛡 I'm a community manager at <a href='https://null.community/' target='_blank'>null - The Open Security Community</a>, and active speaker at various other communities.
 - I recently started one Project <a href='#' target='_blank'> WorkItOut </a> and a YouTube channel to upload my fitness videos and motivate others. Subscribe if you feel motivated watching my videos on <a href='https://www.youtube.com/channel/UCBNABFqV_L7ZjoEDpp2p-TA' target='_blank'> WorkItOut</a>. 
